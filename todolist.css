@@ -1,4 +1,18 @@
 .boxone{
     border:2px solid black;
     background: burlywood;
+    margin:auto;
+    width:25%;
+    height:300px;
+    font-size: large;
+    
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1
+{
+    text
 }
