@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin:0%;
+
+    
+    
+    }
+#title
+{
+    margin-top:20px;
+    text-align: center;
+    color: brown;
+}
+body{
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    background:beige;
+
+}
+.container1{
+    
+    border:3px solid brown;
+    
+    margin-top: 20px;
+    align-items: center;
+    background:coral;
+    height:500px;
+    width:300px;
+    align-self: center;
+}
+.score-div{
+    margin-left:20px ;
+    margin-top: 10px;
+}
+#gamenumber{
+    margin-top: 20px;
+    align-content: center;
+}
+.button{
+    margin-top: 30px;
+    margin-left:20px ;
+}
