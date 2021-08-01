@@ -1,6 +1,17 @@
+*{
+box-sizing: border-box;
+margin:0%;
+background:burlywood;
+
+
+}
+.outermost-div{
+    background:burlywood;
+
+}
 .boxone{
     border:2px solid black;
-    background: burlywood;
+    background: brown;
     margin:auto;
     width:25%;
     height:300px;
@@ -8,11 +19,23 @@
     
     justify-content: center;
 }
+.boxtwo{
+    margin-top: 100px;
+    border:2px solid brown;  
+    background-color: beige;
+    font-family:fantasy;
+    font-style: oblique;
+    font-style:bold; 
+    color:brown
+}
 h2{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1
 {
-    text
+    text-align: center;
+    font-size:60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:brown
 }
