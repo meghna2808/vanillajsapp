@@ -8,7 +8,6 @@ const okBtn=document.getElementById("ok");
 const input=document.getElementById("input-tag");
 
 button1.addEventListener('click', () => {
-    alert("hello");
     const score1 = parseInt(span1.innerText) + 1;
     span1.innerText = `${score1}`;
     if (score1 == gamenumber.value) {
